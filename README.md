@@ -1,6 +1,8 @@
 # 用前注意事项
+
 需前往Hugging Face下载对应的模型和权重文件，并放入路径“……ComfyUI\models\controlfoley”中
-Hugging Face对应项目地址：
+
+Hugging Face对应项目地址：https://huggingface.co/ChenTian666/controlfoley-localModels/tree/main
 
 # ComfyUI-ControlFoley
 
