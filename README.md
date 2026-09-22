@@ -1,3 +1,7 @@
+# 用前注意事项
+需前往Hugging Face下载对应的模型和权重文件，并放入路径“……ComfyUI\models\controlfoley”中
+Hugging Face对应项目地址：
+
 # ComfyUI-ControlFoley
 
 ControlFoley integration for ComfyUI — generate **synchronized foley sound effects** from video, images, and text prompts.
