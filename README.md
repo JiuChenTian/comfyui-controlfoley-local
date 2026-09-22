@@ -180,8 +180,10 @@ ControlFoley 使用以下技术组件：
 ## 致谢
 
 - 原始项目: [ControlFoley](https://github.com/xiaomi-research/controlfoley) by Xiaomi Research
+- 进阶项目：[comfyui-controlfoley]（https://github.com/SGUN-father/comfyui-controlfoley） by SGUN father
 - 论文: ControlFoley: Controllable Foley Sound Effect Generation
 - ComfyUI: [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+- GPT6 Astra
 
 ## License
 
